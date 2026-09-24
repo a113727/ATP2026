@@ -1,8 +1,14 @@
 TPC2
+
 Inês Martins Azevedo, a113727
+
 <img width="1660" height="2048" alt="foto readme" src="https://github.com/user-attachments/assets/0ec1a5d6-69e2-4db5-bb30-f7a83f349237" />
+
 Resumo: Criear um programa em Python para jogar o jogo "Adivinha o número": O jogo pode ter 2 modalidades: computador pensa num número (entre 0 e 100), utilizador tenta adivinhar; ou, o utilizador pensa num número (entre 0 e 100) e o computador tenta adivinhar;
+
+
 Lista de resultados:
+
 [modalidade1.py](https://github.com/user-attachments/files/32629057/modalidade1.py)
 import random
 def utilizador_adivinha():
@@ -25,6 +31,7 @@ def utilizador_adivinha():
     print(f"Parabéns! Descubriu o número em {tentativas} tentativa(s)!")    
 
 utilizador_adivinha()  
+
 [modalidade2.py](https://github.com/user-attachments/files/32629060/modalidade2.py)
 def computador_adivinha():
     print("Modalidade 2: Pensa num número entre 0 e 100!")
