@@ -1,7 +1,7 @@
 ## AUTOR
 
 Inês Martins Azevedo; a113727
-
+![foto](foto%20readme.jpeg)
 
 ## RESUMO
 
@@ -9,4 +9,5 @@ Desenvolver uma aplicação modular baseada em modo texto dedicada à análise e
 
 ## LISTA DE RESULTADOS
 
+[TPC_6](TPC_6.py)
 
