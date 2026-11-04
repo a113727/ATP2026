@@ -1,7 +1,11 @@
 ## TPC6
+
 ## AUTOR
 
-Inês Martins Azevedo; a113727
+Inês Martins Azevedo
+
+a113727
+
 ![foto](foto%20readme.jpeg)
 
 ## RESUMO
